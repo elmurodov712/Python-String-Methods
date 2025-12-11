@@ -1,3 +1,2 @@
 text = input('text: ')
-text = text.title()
-print(text)
+print = text.title()

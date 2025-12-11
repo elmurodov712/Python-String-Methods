@@ -1,3 +1,4 @@
 text = input('text: ')
+target = input('target: ')
 
-print(text.endswith('.py'))
+print(text.endswith(target))
